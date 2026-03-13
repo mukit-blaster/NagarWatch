@@ -1,4 +1,4 @@
-# 🏙️ NagarWatch  
+# NagarWatch 🏙️
 ### A Geolocation-Based Civic Transparency and Project Monitoring System
 
 ---
@@ -37,9 +37,16 @@
 
 ---
 
-## 👥 Team Contribution
+## 👥 Team Contributions
 The project was developed using a modular team-based approach, where each member implemented an independent functional module to ensure scalability and ease of integration.
+
+| Module | Team Member |
+|--------|-------------|
+| Authentication | 👩‍💻 Shafia |
+| Project Management | 👨‍💻 Nobel |
+| Geofencing & Notifications | 👨‍💻 Deloar Ashik |
+| Evidence & Issue Reporting | 👩‍💻 Dipta |
+| Authority Response & Sync | 👨‍💻 Mukit (Team Leader)|
 
 ---
 
-## 📂 Project Structure
